@@ -4,9 +4,13 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Q9</title>
+        <title>Q10</title>
     </head>
-    <body>
-        <x:today></x:today>
+            <form action="ques10.jsp">
+                name:<input type="text" name="name">
+                age:<input type="text" value="age">
+                <input type="submit" value="submit"/>
+            </form>   
     </body>
 </html>
+ 
